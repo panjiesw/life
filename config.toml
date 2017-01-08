@@ -4,7 +4,7 @@ baseurl = "http://panjiesw.life"
 paginate = 5
 
 enableRobotsTXT = true # Suggested, enable robots.txt file
-googleAnalytics = "" # Optional, add tracking Id for analytics
+googleAnalytics = "UA-30473301-4" # Optional, add tracking Id for analytics
 SectionPagesMenu = "main" # Enable menu system for lazy bloggers
 
 [params]
