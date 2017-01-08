@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Panjie SW Life"
-baseurl = "http://panjiesw.github.io"
+baseurl = "http://panjiesw.life"
 paginate = 5
 
 enableRobotsTXT = true # Suggested, enable robots.txt file
