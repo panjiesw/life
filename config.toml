@@ -5,6 +5,7 @@ paginate = 5
 
 enableRobotsTXT = true # Suggested, enable robots.txt file
 googleAnalytics = "UA-30473301-4" # Optional, add tracking Id for analytics
+disqusShortname = "panjiesw-life"
 SectionPagesMenu = "main" # Enable menu system for lazy bloggers
 
 [params]

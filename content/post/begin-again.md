@@ -4,7 +4,7 @@ title = "Begin Again"
 tags = ["life",""]
 categories = ["blog"]
 description = "scratch my blog and begin new"
-
+nodisqus = true
 +++
 
 Last time I update my blog was 2014 and since then I began to realize I'm not particularly eager to write in general.
