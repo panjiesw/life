@@ -1,0 +1,26 @@
+{
+    "language": "en_US",
+    "ignoreWordsList": [
+        "Blog",
+        "javascript",
+        "frontend",
+        "webapp",
+        "ES2015",
+        "timeline",
+        "polyfills",
+        "Webpack",
+        "Browserify",
+        "SystemJS",
+        "Rollup",
+        "Polyfills",
+        "blog"
+    ],
+    "documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ],
+    "ignoreRegExp": [],
+    "ignoreFileExtensions": [],
+    "checkInterval": 5000
+}

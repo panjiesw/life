@@ -1,0 +1,9 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+  "files.insertFinalNewline": true,
+  "editor.renderWhitespace": "boundary",
+  "eslint.enable": false,
+  "markdown.previewFrontMatter": "hide",
+  "stylelint.enable": false,
+  "tslint.enable": false
+}
