@@ -5,6 +5,7 @@ tags:
 categories:
   - Blog
   - Dev
+nodisqus: true
 description: "2016 is a year full of javascript/frontend webapp development spaghetti for me."
 date: "2017-01-09T22:32:49+07:00"
 title: "2016 - Year of Yummy JS Dev Spaghetti"
